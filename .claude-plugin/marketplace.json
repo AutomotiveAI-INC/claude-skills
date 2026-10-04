@@ -1,0 +1,11 @@
+{
+  "name": "team-skills",
+  "owner": { "name": "AutomotiveAI-INC" },
+  "plugins": [
+    {
+      "name": "builder-cli",
+      "source": "./plugins/builder-cli",
+      "description": "Drive headless builder CLIs (opencode, agy, codex) from Claude: one worktree per task, builder never commits, owner approves."
+    }
+  ]
+}

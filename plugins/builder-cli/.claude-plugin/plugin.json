@@ -1,0 +1,5 @@
+{
+  "name": "builder-cli",
+  "version": "1.0.0",
+  "description": "Drive headless builder CLIs (opencode, agy, codex) from Claude: one worktree per task, builder never commits, owner approves."
+}
